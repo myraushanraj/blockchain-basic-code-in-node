@@ -4,4 +4,4 @@ blockchain chain basic code using node js
 1. Install Node 
 2. Open project and run command
 3. node install
-4. Rub project command: node app.js or node blockchain.js
+4. Run project command: node app.js or node blockchain.js
